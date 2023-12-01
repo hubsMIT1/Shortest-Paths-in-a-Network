@@ -1,4 +1,3 @@
-# test.py
 from files.graph import Graph
 
 def run_tests():
