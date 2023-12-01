@@ -1,4 +1,3 @@
-# graph.py
 import heapq
 from files.edge import Edge
 from files.vertex import Vertex
